@@ -1,0 +1,17 @@
+.card1{
+width: 500px;
+height:400px ;
+border: 2px solid;
+}
+
+.icon{
+    width: 15px;
+    height: 15px;
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.li1{
+     display: flex;
+    justify-content:space-between;
+}
